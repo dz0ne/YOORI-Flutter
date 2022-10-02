@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858468987379",
+    "project_id": "yoori-ecommerce",
+    "storage_bucket": "yoori-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858468987379:android:7b34f664705fb937012286",
+        "android_client_info": {
+          "package_name": "com.spagreen.yoori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858468987379-677muvn6j4urfj6tv8e34vaeo36illon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.yoori",
+            "certificate_hash": "05405d13dd1e8e5e6e66a163cbfac6893cd70968"
+          }
+        },
+        {
+          "client_id": "858468987379-j2qb6vco6uknva98hap11c89o9dn3naj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.yoori",
+            "certificate_hash": "bb2e8d96d01f59011c509387d9f59ac8c139120d"
+          }
+        },
+        {
+          "client_id": "858468987379-ulhpemk54i753jdrc4vmff5vl52c8946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7vAFkMRVOiw9fORy7_7ZpAlHYUfAALDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858468987379-ulhpemk54i753jdrc4vmff5vl52c8946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

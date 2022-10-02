@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Iconly_Light-Outline_Tick-Square" data-name="Iconly/Light-Outline/Tick-Square" transform="translate(-2 -2)">
+    <g id="Tick-Square" transform="translate(2 2)">
+      <path id="Combined-Shape" d="M14.334,0C17.723,0,20,2.378,20,5.916v8.168C20,17.622,17.723,20,14.333,20H5.665C2.276,20,0,17.622,0,14.084V5.916C0,2.378,2.276,0,5.665,0Zm0,1.5H5.665C3.135,1.5,1.5,3.233,1.5,5.916v8.168c0,2.683,1.635,4.416,4.165,4.416h8.668c2.531,0,4.167-1.733,4.167-4.416V5.916C18.5,3.233,16.864,1.5,14.334,1.5ZM14.09,7.1a.749.749,0,0,1,0,1.06L9.344,12.9a.748.748,0,0,1-1.06,0L5.91,10.53A.75.75,0,0,1,6.97,9.47l1.844,1.842L13.03,7.1A.749.749,0,0,1,14.09,7.1Z" fill="#6dbea3" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
